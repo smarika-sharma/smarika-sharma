@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarika-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="smarika-sharma" /> </p>
 
-- 🔭 I’m currently working on **Student Management System using JavaFx and FileHandling**
+- 🔭 I’m currently working at **Varicon as a Full Stack AI Intern.**
 
-- 🌱 I’m currently learning **Java, Python, R programming**
+- 🌱 I’m currently learning **Python and integration of GenAI**
 
 - 📫 How to reach me **smarikasharma89@gmail.com**
 
