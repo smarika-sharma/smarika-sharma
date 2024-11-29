@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **Varicon as a Full Stack AI Intern.**
 
-- 🌱 I’m currently learning **Python and integration of GenAI**
+- 🌱 I’m currently learning **Django and integration of GenAI**
 
 - 📫 How to reach me **smarikasharma89@gmail.com**
 
