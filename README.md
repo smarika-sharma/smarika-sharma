@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarika-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="smarika-sharma" /> </p>
 
-- 🔭 I’m currently working at **Varicon as a Full Stack AI Intern.**
+- 🔭 I’m currently working at **Varicon as a Backend AI Intern.**
 
 - 🌱 I’m currently learning **Django and integration of GenAI**
 
